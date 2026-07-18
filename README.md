@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Alfej%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=250&section=header&text=Alfej%20Malik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/Alfej-malik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=BCA+Student;Frontend+Developer;Full+Stack+Developer;React+Developer;Building+Modern+Web+Experiences" alt="Typing SVG" />
@@ -147,4 +147,4 @@ A modern Apple-inspired frontend homepage focused on a clean, minimal, premium, 
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=150&section=footer" />
